@@ -1,10 +1,20 @@
-node_modules/
+# Dependencies
+CLIENT/node_modules/
+SERVER/node_modules/
+
+# Environment & secrets
 .env
-dist/
-build/
+.env.*
+SERVER/.env
+CLIENT/.env
+
+# Build outputs
+CLIENT/dist/
+CLIENT/build/
+
+# Editor
 .vscode/
+
+# OS
 .DS_Store
-*.log
-coverage/
-.next/
-venv/
+Thumbs.db
