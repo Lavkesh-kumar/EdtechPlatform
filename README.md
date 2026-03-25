@@ -1,4 +1,4 @@
-# StudyNotion - EdTech Platform
+# EdtechPlatform
 
 An EdTech platform built for educators and contributors, designed to streamline the educational process.
 
