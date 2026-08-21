@@ -11,31 +11,31 @@ StudyNotion is a full-stack EdTech platform I built to make online learning more
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Homepage-1.png" alt="Landing page" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Homepage-1.png" alt="Landing page" style="width: 300px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Homepage-2.png" alt="Landing register" style="width: 300px;"/>
-        <br />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Homepage-3.png" alt="Landing register" style="width: 300px;"/>
-        <br />
-      </td>
-      <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Homepage-4.png" alt="Landing register" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Homepage-2.png" alt="Landing register" style="width: 300px;"/>
         <br />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Homepage-5.png" alt="Landing register" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Homepage-3.png" alt="Landing register" style="width: 300px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Homepage.png" alt="Landing register" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Homepage-4.png" alt="Landing register" style="width: 300px;"/>
+        <br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Homepage-5.png" alt="Landing register" style="width: 300px;"/>
+        <br />
+      </td>
+      <td align="center">
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Homepage.png" alt="Landing register" style="width: 300px;"/>
         <br />
       </td>
     </tr>
@@ -47,31 +47,31 @@ StudyNotion is a full-stack EdTech platform I built to make online learning more
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Aboutus.png" alt="About us" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Aboutus.png" alt="About us" style="width: 300px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/About_us-2.png" alt="About us 2" style="width: 300px;"/>
-        <br />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/About-us3.png" alt="About us 3" style="width: 300px;"/>
-        <br />
-      </td>
-      <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/About_us4.png" alt="About us 4" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/About_us-2.png" alt="About us 2" style="width: 300px;"/>
         <br />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/About_us5.png" alt="About us 5" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/About-us3.png" alt="About us 3" style="width: 300px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Catalog.png" alt="Catalog" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/About_us4.png" alt="About us 4" style="width: 300px;"/>
+        <br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/About_us5.png" alt="About us 5" style="width: 300px;"/>
+        <br />
+      </td>
+      <td align="center">
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Catalog.png" alt="Catalog" style="width: 300px;"/>
         <br />
       </td>
     </tr>
@@ -83,31 +83,31 @@ StudyNotion is a full-stack EdTech platform I built to make online learning more
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Login_page.png" alt="Login page" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Login_page.png" alt="Login page" style="width: 300px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Logout.png" alt="Logout" style="width: 300px;"/>
-        <br />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/SignupPage.png" alt="Signup page" style="width: 300px;"/>
-        <br />
-      </td>
-      <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/MailingFunctionality.png" alt="Mailing functionality" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Logout.png" alt="Logout" style="width: 300px;"/>
         <br />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/OTP.png" alt="OTP verification" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/SignupPage.png" alt="Signup page" style="width: 300px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/ChangePassword.png" alt="Change password" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/MailingFunctionality.png" alt="Mailing functionality" style="width: 300px;"/>
+        <br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/OTP.png" alt="OTP verification" style="width: 300px;"/>
+        <br />
+      </td>
+      <td align="center">
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/ChangePassword.png" alt="Change password" style="width: 300px;"/>
         <br />
       </td>
     </tr>
@@ -119,27 +119,27 @@ StudyNotion is a full-stack EdTech platform I built to make online learning more
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Instructor_Courses.png" alt="Instructor courses" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Instructor_Courses.png" alt="Instructor courses" style="width: 300px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Instructor-Dashboard.png" alt="Instructor dashboard" style="width: 300px;"/>
-        <br />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/AddCourse1stModal.png" alt="Add course step 1" style="width: 300px;"/>
-        <br />
-      </td>
-      <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/AddCourseModal3.png" alt="Add course step 3" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Instructor-Dashboard.png" alt="Instructor dashboard" style="width: 300px;"/>
         <br />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/UserDemographics.png" alt="User demographics" style="width: 300px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/AddCourse1stModal.png" alt="Add course step 1" style="width: 300px;"/>
+        <br />
+      </td>
+      <td align="center">
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/AddCourseModal3.png" alt="Add course step 3" style="width: 300px;"/>
+        <br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/UserDemographics.png" alt="User demographics" style="width: 300px;"/>
         <br />
       </td>
     </tr>
@@ -151,29 +151,29 @@ StudyNotion is a full-stack EdTech platform I built to make online learning more
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Cart.png" alt="Cart" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Cart.png" alt="Cart" style="width: 200px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/MyCourses.png" alt="My courses" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/MyCourses.png" alt="My courses" style="width: 200px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/CourseDescription.png" alt="Course description" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/CourseDescription.png" alt="Course description" style="width: 200px;"/>
         <br />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/CoursePage.png" alt="Course page" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/CoursePage.png" alt="Course page" style="width: 200px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/CoursesPage.png" alt="Courses page" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/CoursesPage.png" alt="Courses page" style="width: 200px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/TopCourses.png" alt="Top courses" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/TopCourses.png" alt="Top courses" style="width: 200px;"/>
         <br />
       </td>
     </tr>
@@ -185,29 +185,29 @@ StudyNotion is a full-stack EdTech platform I built to make online learning more
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/paymentGateway.png" alt="Payment gateway" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/paymentGateway.png" alt="Payment gateway" style="width: 200px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Cart.png" alt="Cart" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Cart.png" alt="Cart" style="width: 200px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/CoursePage.png" alt="Course page" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/CoursePage.png" alt="Course page" style="width: 200px;"/>
         <br />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/Footer.png" alt="Footer" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/Footer.png" alt="Footer" style="width: 200px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/RatingandReview.png" alt="Ratings and reviews" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/RatingandReview.png" alt="Ratings and reviews" style="width: 200px;"/>
         <br />
       </td>
       <td align="center">
-        <img src="https://github.com/lavkeshkumar/EdtechPlatform/blob/master/assets/SubsectionVideo.png" alt="Subsection video" style="width: 200px;"/>
+        <img src="https://github.com/Lavkesh-kumar/EdtechPlatform/blob/master/assets/SubsectionVideo.png" alt="Subsection video" style="width: 200px;"/>
         <br />
       </td>
     </tr>
@@ -375,4 +375,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 Built and maintained by **Lavkesh Kumar**
 
 - Email: [0xlavkesh.builds@gmail.com](mailto:0xlavkesh.builds@gmail.com)
-- GitHub: [github.com/Lavkesh-kumar](https://github.com/dipesh230902/EdtechPlatform)
+- GitHub: [github.com/Lavkesh-kumar](https://github.com/Lavkesh-kumar/EdtechPlatform)
